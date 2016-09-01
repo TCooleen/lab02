@@ -6,9 +6,9 @@
 * instance- a piece of data defined by variables
 * method- a command that can be called to define a variable
 * signature- a method's name and parameter types
-* parameter,
-* type,
-* state,
+* parameter- the data that a method uses to define variables
+* type- data type specifies the size and type of values that can be stored in a method
+* state- an object's state is defined by the attributes of the object and by the values these have
 * source code,
 * return value,
 * compiler
