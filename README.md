@@ -1,11 +1,11 @@
 # Lab 02 -- Chapter 01
 
 ## Define the followint terms:
-* object,
-* class,
-* instance,
-* method,
-* signature,
+* object- an instance of a class
+* class- the blueprint from which objects are created
+* instance- a piece of data defined by variables
+* method- a command that can be called to define a variable
+* signature- a method's name and parameter types
 * parameter,
 * type,
 * state,
